@@ -1,0 +1,14 @@
+#our-services {
+    height: 130px;
+    color: aliceblue;
+    font-size: x-large;
+    background-color: #5481c0;
+    width: 300px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+  }
